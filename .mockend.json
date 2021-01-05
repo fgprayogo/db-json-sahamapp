@@ -1,15 +1,5 @@
 {
-    "portofolio_galih" : [
-            { "kode_emiten": "BMTR.JK", "avg": 296, "target_price": 670 },
-            { "kode_emiten": "MNCN.JK", "avg": 1165, "target_price": 1227 },
-            { "kode_emiten": "PNLF.JK", "avg": 246, "target_price": 319 }
-    ],
-    "portofolio_bagus" : [
-            { "kode_emiten": "BMTR.JK", "avg": 294, "target_price": 670 },
-            { "kode_emiten": "PNLF.JK", "avg": 244, "target_price": 319 }
-    ],
-    "portofolio_fadil" : [
-            { "kode_emiten": "BMTR.JK", "avg": 288, "target_price": 670 },
-            { "kode_emiten": "PNLF.JK", "avg": 242, "target_price": 319 }
-    ]
+    "portofolio_galih" : 1,
+    "portofolio_bagus" : 2,
+    "portofolio_fadil" : 3
 }
