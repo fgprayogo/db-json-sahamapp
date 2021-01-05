@@ -9,7 +9,7 @@
             { "kode_emiten": "PNLF.JK", "avg": 244, "target_price": 319 }
     ],
     "portofolio_fadil" : [
-            { "kode_emiten": "BMTR.JK", "avg": 288, "target_price": 670 },
+            { "kode_emiten": "BMTR.JK", "avg": 294, "target_price": 670 },
             { "kode_emiten": "PNLF.JK", "avg": 242, "target_price": 319 }
     ]
 }
