@@ -6,6 +6,11 @@
       "target_price": 670
     },
     {
+      "kode_emiten": "LPCK.JK",
+      "avg": 1355,
+      "target_price": 2610
+    },
+    {
       "kode_emiten": "PNLF.JK",
       "avg": 246,
       "target_price": 319
