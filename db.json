@@ -14,6 +14,11 @@
       "kode_emiten": "PNLF.JK",
       "avg": 246,
       "target_price": 319
+    },
+    {
+      "kode_emiten": "SPMA.JK",
+      "avg": 302,
+      "target_price": 355
     }
   ],
   "portofolio_bagus": [
