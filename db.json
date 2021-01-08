@@ -19,6 +19,21 @@
       "kode_emiten": "SPMA.JK",
       "avg": 302,
       "target_price": 355
+    },
+    {
+      "kode_emiten": "PURA.JK",
+      "avg": 72,
+      "target_price": 150
+    },
+    {
+      "kode_emiten": "RANC.JK",
+      "avg": 478,
+      "target_price": 549
+    },
+    {
+      "kode_emiten": "APII.JK",
+      "avg": 160,
+      "target_price": 233
     }
   ],
   "portofolio_bagus": [
