@@ -39,12 +39,12 @@
   "portofolio_bagus": [
     {
       "kode_emiten": "BMTR.JK",
-      "avg": 294,
+      "avg": 286,
       "target_price": 670
     },
     {
       "kode_emiten": "PNLF.JK",
-      "avg": 244,
+      "avg": 245,
       "target_price": 319
     }
   ],
